@@ -1,0 +1,12 @@
+Lab-1 varibles and operators
+
+1.Calculate the multiplication and sum of two numbers
+
+num1 = 4
+num2 = 5
+
+multi = num1 * num2
+sum  = num1 + num2
+
+print("Multiplication:",multi )
+print("Sum:", sum)
