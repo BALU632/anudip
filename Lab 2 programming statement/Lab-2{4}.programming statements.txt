@@ -1,0 +1,9 @@
+Lab-2{4}.programming statements
+
+4.Find the Simple Interest on Rs. 200 for 5 years at 5% per year.?
+P = 200
+R = 5
+T = 5
+SI = (P * R * T) / 100
+
+print(f"The Simple Interest on Rs. {P} for {T} years at {R}% per year is Rs. {SI:.2f}.")
